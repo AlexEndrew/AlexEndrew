@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexEndrew
 
-I have a degree in Mechanical Engineering from UFF (Universidade Federal Fluminense), currently working with Product Design Engineering. 
+I am a Mechanical Engineer graduated from UFF (Universidade Federal Fluminense), currently working with Product Design Engineering. 
 I really like the front-end programming area and I am looking to improve myself in the development area for future professional performance as a front-end developer.
 
 - 👀 I’m interested in #Front-End Development
